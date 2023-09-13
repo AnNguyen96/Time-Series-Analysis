@@ -11,7 +11,7 @@ best model. Finally, I will answer the inspiration questions raised at the begin
 
 <h4 align="center">The project is made by Phuc An Nguyen</h4>
 
-<img src=""
+<img src="Stock_prediction.png"
      style="float: left; margin-right: 10px;" />
 
 ## Key Features
@@ -22,14 +22,19 @@ best model. Finally, I will answer the inspiration questions raised at the begin
 * Model evaluation methods: Mean Absolute Percentage Error, Mean Squared Error, Root Mean Squared Error, Mean Absolute Error 
 
 ## How to Install and Run the Project
-Run `32406231_FIT5149_Assmt1.r` files with `RStudio` or `32406231_FIT5149_Assmt1.ipynb` file with `Jupyter Notebook` to run 
+Run `Time Series Analysis.ipynb` file with `Jupyter Notebook`
 
 ## Credits
 This software uses the following open source packages:
 
-- [tidyverse](https://www.tidyverse.org/)
-- [caret](https://topepo.github.io/caret/)
-- [R](https://www.r-project.org/)
+- [Python](https://www.python.org/)
+- [pandas](https://pandas.pydata.org/)
+- [numpy](https://numpy.org/)
+- [seaborn](https://seaborn.pydata.org/)
+- [matplotlib](https://matplotlib.org/)
+- [sklearn](https://scikit-learn.org/stable/)
+- [keras](https://keras.io/)
+- [statsmodels](https://www.statsmodels.org/stable/index.html)
 - [Jupyter Notebook](https://jupyter.org/)
 
 
